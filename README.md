@@ -1,0 +1,2 @@
+# estructures_Dataframe
+Exercicis de S02_T05_Exploracio_de_dades.txt
